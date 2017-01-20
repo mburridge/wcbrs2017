@@ -6,5 +6,6 @@ h1, h2, h3, h4, h5, h6 { color: #6891C7; font-family: "Raleway", sans-serif; }
 .nav-menu li a { color: white; }
 .nav-menu .current_page_item > a, .nav-menu .current_page_ancestor > a, .nav-menu .current-menu-item > a, .nav-menu .current-menu-ancestor > a { color: #ccc; font-style: normal; }
 ul.nav-menu ul a:hover, .nav-menu ul ul a:hover, ul.nav-menu ul a:focus, .nav-menu ul ul a:focus { background-color: #6892C7; }
+.entry-content a, .entry-content a:visited, .entry-content a:hover { color: pink; }
 .site-footer { background-color: #6991C5; border-bottom: 1px solid black; }
 .site-footer a { color: white; }
