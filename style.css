@@ -6,3 +6,4 @@ h1, h2, h3, h4, h5, h6 { color: #6891C7; font-family: "Raleway", sans-serif; }
 .navbar { margin-top: 280px; background: #688FC5; border-top: 1px solid black; border-bottom: 1px solid black; }
 .nav-menu li a { color: white; }
 .nav-menu .current_page_item > a, .nav-menu .current_page_ancestor > a, .nav-menu .current-menu-item > a, .nav-menu .current-menu-ancestor > a { color: #ccc; font-style: normal; }
+ul.nav-menu ul a:hover, .nav-menu ul ul a:hover, ul.nav-menu ul a:focus, .nav-menu ul ul a:focus { background-color: pink; }
