@@ -11,7 +11,7 @@ ul.nav-menu ul a:hover, .nav-menu ul ul a:hover, ul.nav-menu ul a:focus, .nav-me
 .entry-title a, .entry-title a:visited, .entry-title a:hover { color: #6991C5; text-decoration: none; } 
 .entry-meta a, .entry-meta a:visited, .entry-meta a:hover { color: #6991C5; }
 .entry-content a, .entry-content a:visited, .entry-content a:hover { color: #6991C5; }
-.comment-respond { background-color: #b2b2b2; }
+.comment-respond { background-color: #dedede; }
 button, input, textarea { border: 2px solid #6991C5; }
 button, input[type="submit"], input[type="button"], input[type="reset"] { background: #6892C7; border-bottom: none; }
 button:hover, button:focus, input[type="submit"]:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:focus, input[type="button"]:focus, input[type="reset"]:focus { background: black; }
