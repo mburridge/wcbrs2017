@@ -2,7 +2,7 @@ html { margin-top: 0px !important; background-color: #b2b2b2; }
 body { font-family: "Raleway", sans-serif; max-width: 1280px; margin: auto; }
 h1, h2, h3, h4, h5, h6 { font-family: "Raleway", sans-serif; }
 h1 { color: #6891C7; }
-.site { border-left: 1px solid black; border-right: 1px solid black; }
+.site { border: 1px solid black; }
 .navbar { background: #688FC5; border-top: 1px solid black; border-bottom: 1px solid black; }
 .nav-menu li a { color: white; }
 .nav-menu .current_page_item > a, .nav-menu .current_page_ancestor > a, .nav-menu .current-menu-item > a, .nav-menu .current-menu-ancestor > a { color: #ccc; font-style: normal; }
@@ -15,6 +15,6 @@ a, a:visited, a:hover, .entry-meta a, .entry-meta a:visited, .entry-meta a:hover
 button, input, textarea { border: 2px solid #6991C5; }
 button, input[type="submit"], input[type="button"], input[type="reset"] { background: #6892C7; border-bottom: none; }
 button:hover, button:focus, input[type="submit"]:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:focus, input[type="button"]:focus, input[type="reset"]:focus { background: black; }
-.site-footer { background-color: #6991C5; border-bottom: 1px solid black; }
+.site-footer { background-color: #6991C5; }
 .site-footer a { color: white; }
 .site-footer .widget a { color: #6991C5; }
