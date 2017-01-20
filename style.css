@@ -6,6 +6,7 @@ h1, h2, h3, h4, h5, h6 { color: #6891C7; font-family: "Raleway", sans-serif; }
 .nav-menu li a { color: white; }
 .nav-menu .current_page_item > a, .nav-menu .current_page_ancestor > a, .nav-menu .current-menu-item > a, .nav-menu .current-menu-ancestor > a { color: #ccc; font-style: normal; }
 ul.nav-menu ul a:hover, .nav-menu ul ul a:hover, ul.nav-menu ul a:focus, .nav-menu ul ul a:focus { background-color: #6892C7; }
+.entry-header, .entry-content, .entry-meta { max-width: 760px; }
 .entry-title a, .entry-title a:visited, .entry-title a:hover { color: #6991C5; text-decoration: none; } 
 .entry-meta a, .entry-meta a:visited, .entry-meta a:hover { color: #6991C5; }
 .entry-content a, .entry-content a:visited, .entry-content a:hover { color: #6991C5; }
