@@ -4,5 +4,5 @@ h1, h2, h3, h4, h5, h6 { color: #6891C7; font-family: "Raleway", sans-serif; }
 .site { border-left: 1px solid black; border-right: 1px solid black; }
 .site-header { height: 600px; }
 .navbar { margin-top: 280px; background: #688FC5; border-top: 1px solid black; border-bottom: 1px solid black; }
-.navmenu li a { color: white; }
+.nav-menu li a { color: white; }
 .navbar a current-menu-item { color: pink; }
