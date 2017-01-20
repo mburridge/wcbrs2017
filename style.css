@@ -1,6 +1,6 @@
 html { margin-top: 0px !important; background-color: #b2b2b2; }
 body { font-family: "Raleway", sans-serif; max-width: 1280px; margin: auto; }
-h1, h2, h3, h4, h5, h6 { color: #6891C7; font-family: "Raleway", sans-serif; }
+h1 { color: #6891C7; font-family: "Raleway", sans-serif; }
 .site { border-left: 1px solid black; border-right: 1px solid black; }
 .navbar { background: #688FC5; border-top: 1px solid black; border-bottom: 1px solid black; }
 .nav-menu li a { color: white; }
