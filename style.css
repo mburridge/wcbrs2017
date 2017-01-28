@@ -23,5 +23,6 @@ th { text-align: right; padding-right: 10px; text-transform: capitalize; }
 .header-row th { text-align: center; border-bottom: 1px solid #666; }
 .header-row th:first-child { border-bottom: none; }
 td {text-align: center;  border-bottom: 1px solid #666; border-left: 1px solid #666; }
+td .sponsorship { background-color: #eee; }
 td:last-child { border-right: 1px solid #666; }
 .contact-form {padding: 20px; background: #eee; }
