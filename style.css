@@ -18,4 +18,6 @@ button:hover, button:focus, input[type="submit"]:hover, input[type="button"]:hov
 .site-footer { background-color: #6991C5; }
 .site-footer a { color: white; }
 .site-footer .widget a { color: #6991C5; }
+table { font-size: 0.85em; }
+th { text-transform: capitalize; }
 td {text-align: center; }
