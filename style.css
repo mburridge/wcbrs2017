@@ -19,5 +19,5 @@ button:hover, button:focus, input[type="submit"]:hover, input[type="button"]:hov
 .site-footer a { color: white; }
 .site-footer .widget a { color: #6991C5; }
 table { font-size: 0.85em; }
-th { text-transform: capitalize; }
-td {text-align: center; }
+th { text-transform: capitalize; border-bottom: 1px solid #666; }
+td {text-align: center;  border-bottom: 1px solid #666; border-left: 1px solid #666; }
