@@ -20,7 +20,7 @@ button:hover, button:focus, input[type="submit"]:hover, input[type="button"]:hov
 .site-footer .widget a { color: #6991C5; }
 table { font-size: 0.8em; }
 th { text-align: right; text-transform: capitalize; border-bottom: 1px solid #666; }
-.header-row th { text-align: center; }
+.header-row th { text-align: center; border-bottom: none;}
 td {text-align: center;  border-bottom: 1px solid #666; border-left: 1px solid #666; }
 td:last-child { border-right: 1px solid #666; }
 form {padding: 20px; background: #eee; }
