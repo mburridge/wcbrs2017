@@ -25,5 +25,7 @@ table .sponsorlist { font-size: 0.8em; border-bottom: none; }
 .sponsorlist td {text-align: center;  border-bottom: 1px solid #666; border-left: 1px solid #666; }
 .sponsorship { background-color: #eee; }
 .sponsorlist td:last-child { border-right: 1px solid #666; }
+.tix_tickets_table { border: 1px solid #666; }
+.tix_tickets_table td { padding-left: 10px; }
 .tix-column-description {width: 50%; }
 .contact-form {padding: 20px; background: #eee; }
