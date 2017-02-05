@@ -18,6 +18,7 @@ button:hover, button:focus, input[type="submit"]:hover, input[type="button"]:hov
 .site-footer { background-color: #6991C5; }
 .site-footer a { color: white; }
 .site-footer .widget a { color: #6991C5; }
+table { border: none; }
 table .sponsorlist { font-size: 0.8em; border-bottom: none; }
 .sponsorlist th { text-align: right; padding-right: 10px; text-transform: capitalize; }
 .sponsorlist .header-row th { text-align: center; border-bottom: 1px solid #666; }
