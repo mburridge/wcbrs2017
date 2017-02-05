@@ -18,7 +18,7 @@ button:hover, button:focus, input[type="submit"]:hover, input[type="button"]:hov
 .site-footer { background-color: #6991C5; }
 .site-footer a { color: white; }
 .site-footer .widget a { color: #6991C5; }
-table { border: none; }
+table { border: none; background-color: white; }
 table .sponsorlist { font-size: 0.8em; border-bottom: none; }
 .sponsorlist th { text-align: right; padding-right: 10px; text-transform: capitalize; }
 .sponsorlist .header-row th { text-align: center; border-bottom: 1px solid #666; }
@@ -28,7 +28,7 @@ table .sponsorlist { font-size: 0.8em; border-bottom: none; }
 .sponsorlist td:last-child { border-right: 1px solid #666; }
 .tix_tickets_table { border: 1px solid #666; }
 .tix_tickets_table th { background: #eee; padding-left: 10px; }
-.tix_tickets_table td { padding-left: 10px; }
+.tix_tickets_table td { padding-left: 10px; border-top: 1px solid #666; }
 .tix-column-price, .tix-column-remaining, .tix-column-quantity { text-align: center; }
 .tix-column-description {width: 50%; }
 .contact-form {padding: 20px; background: #eee; }
