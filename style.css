@@ -32,5 +32,5 @@ table .sponsorlist { font-size: 0.8em; border-bottom: none; }
 .tix-column-price, .tix-column-remaining, .tix-column-quantity { text-align: center; }
 .tix-column-description {width: 50%; }
 .policy h3 { font-size: 0.9em; }
-.policy { font-size: 0.8em; background: #eee; padding: 0 10px; color: #666; }
+.policy { font-size: 0.8em; background: #eee; padding: 8px 12px; color: #666; }
 .contact-form {padding: 20px; background: #eee; }
