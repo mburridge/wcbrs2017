@@ -34,5 +34,6 @@ table .sponsorlist { font-size: 0.8em; border-bottom: none; }
 .policy h3 { font-size: 0.9em; }
 .policy { font-size: 0.8em; background: #eee; padding: 2px 12px; color: #888; width: 84%; margin: auto; }
 .contact-form {padding: 20px; background: #eee; }
+.wcpt-session-speakers { font-style: italic; }
 .wcpt-session-speakers:before { content:'- '; }
 @media screen and (max-width: 600px) { .tix-attendee-list li { display: block; clear: both; height: auto !important; width: 100% !important; } }
