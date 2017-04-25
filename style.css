@@ -37,4 +37,5 @@ table .sponsorlist { font-size: 0.8em; border-bottom: none; }
 .contact-form {padding: 20px; background: #eee; }
 .wcpt-session-speakers { font-style: italic; }
 .wcpt-session-speakers:before { content:'- '; }
+.wcorg-speaker-description img { margin-bottom: 1rem; }
 @media screen and (max-width: 600px) { .tix-attendee-list li { display: block; clear: both; height: auto !important; width: 100% !important; } }
